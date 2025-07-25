@@ -6,7 +6,17 @@
 - [X] Command-line tools (Linux CLI)  
 - [ ] Shell scripting (Bash, POSIX)  
 - [X] Systemd / init systems  
-- [X] Networking tools (netstat, curl, dig, etc.) 
+- [X] Networking tools (netstat, curl, dig, etc.)
+
+## Programming & Scripting
+- [x] PowerShell  
+- [x] Bash  
+- [X] Python  
+- [X] JavaScript / TypeScript  
+- [ ] Go or Rust (optional)  
+- [ ] C# / .NET (for Azure Functions or Logic Apps)  
+- [X] YAML / JSON  
+- [ ] Regex 
 
 ## Core Cloud Infrastructure
 - [x] Azure  
@@ -42,16 +52,6 @@
 - [ ] Pulumi  
 - [x] Azure CLI / PowerShell  
 - [ ] CloudFormation
-
-## Programming & Scripting
-- [x] PowerShell  
-- [x] Bash  
-- [X] Python  
-- [X] JavaScript / TypeScript  
-- [ ] Go or Rust (optional)  
-- [ ] C# / .NET (for Azure Functions or Logic Apps)  
-- [X] YAML / JSON  
-- [ ] Regex 
 
 ## DevOps & Automation
 - [X] Git & version control  
