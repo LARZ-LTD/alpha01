@@ -1,9 +1,15 @@
 # Cloud Engineer Skill Checklist
 
+## Operating Systems & Shell Skills
+- [x] Windows Server  
+- [x] Linux (Ubuntu, RHEL, etc.)  
+- [X] Command-line tools (Linux CLI)  
+- [ ] Shell scripting (Bash, POSIX)  
+- [X] Systemd / init systems  
+- [X] Networking tools (netstat, curl, dig, etc.) 
+
 ## Core Cloud Infrastructure
 - [x] Azure  
-- [ ] AWS  
-- [ ] GCP  
 - [ ] Multi-cloud architecture  
 - [x] Compute (VMs, containers, serverless)  
 - [x] Storage (blob, file, object)  
@@ -11,31 +17,47 @@
 - [ ] High availability & disaster recovery  
 - [ ] Hybrid cloud & edge integration  
 
+## Networking & Connectivity
+- [x] Virtual networking  
+- [X] Peering, private endpoints, service endpoints  
+- [X] VPN & ExpressRoute / Direct Connect  
+- [X] DNS, Bastion, NAT
+      
 ## Identity & Access Management
 - [x] Entra ID  
-- [ ] IAM (AWS/GCP)  
+- [X] IAM 
 - [X] Identity federation & SSO  
 - [X] Identity protection & governance  
 
 ## Security
 - [x] Governance & policies  
 - [x] Key management (Key Vault, KMS)  
-- [X] Threat protection & compliance  
+- [ ] Threat protection & compliance  
 - [X] Zero Trust principles  
-- [X] Security posture management  
+- [ ] Security posture management  
 
 ## Infrastructure as Code
 - [x] ARM / Bicep  
 - [ ] Terraform  
 - [ ] Pulumi  
 - [x] Azure CLI / PowerShell  
-- [ ] CloudFormation  
+- [ ] CloudFormation
+
+## Programming & Scripting
+- [x] PowerShell  
+- [x] Bash  
+- [X] Python  
+- [X] JavaScript / TypeScript  
+- [ ] Go or Rust (optional)  
+- [ ] C# / .NET (for Azure Functions or Logic Apps)  
+- [X] YAML / JSON  
+- [ ] Regex 
 
 ## DevOps & Automation
-- [ ] Git & version control  
+- [X] Git & version control  
 - [ ] CI/CD pipelines  
-- [ ] GitHub Actions / Azure DevOps / CodePipeline  
-- [ ] Containerization (Docker)  
+- [X] GitHub Actions / Azure DevOps / CodePipeline  
+- [X] Containerization (Docker)  
 - [ ] Kubernetes (AKS, EKS, GKE)  
 - [ ] Infrastructure automation (DSC, Ansible, etc.)  
 
@@ -45,11 +67,12 @@
 - [X] Cost management & optimization  
 - [X] Performance tuning  
 
-## Networking & Connectivity
-- [x] Virtual networking  
-- [X] Peering, private endpoints, service endpoints  
-- [X] VPN & ExpressRoute / Direct Connect  
-- [X] DNS, Bastion, NAT  
+## AI & ML in the Cloud
+- [ ] Azure AI Services (Cognitive Services, Form Recognizer, etc.)  
+- [ ] Cognitive Search / Vector search  
+- [ ] LangChain / LLM orchestration  
+- [ ] AIOps / Anomaly detection  
+- [ ] ML model deployment (AKS, ACI, App Services)  
 
 ## Soft & Professional Skills
 - [x] Cloud architecture mindset  
