@@ -68,7 +68,7 @@
 - [X] Performance tuning  
 
 ## AI & ML in the Cloud
-- [ ] Azure AI Services (Cognitive Services, Form Recognizer, etc.)  
+- [X] Azure AI Services (Cognitive Services, Form Recognizer, etc.)  
 - [ ] Cognitive Search / Vector search  
 - [ ] LangChain / LLM orchestration  
 - [ ] AIOps / Anomaly detection  
