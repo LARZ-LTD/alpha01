@@ -15,7 +15,7 @@
 - [X] JavaScript / TypeScript   (80 %)
 - [ ] Go or Rust (optional)  
 - [ ] C# / .NET (for Azure Functions or Logic Apps)  
-- [X] YAML / JSON   (700 %)
+- [X] YAML / JSON   (70 %)
 - [ ] Regex 
 
 ## Core Cloud Infrastructure
