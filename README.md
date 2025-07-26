@@ -9,13 +9,13 @@
 - [X] Networking tools (netstat, curl, dig, etc.)
 
 ## Programming & Scripting
-- [x] PowerShell  
-- [x] Bash  
-- [X] Python  
-- [X] JavaScript / TypeScript  
+- [x] PowerShell  (80 %)
+- [x] Bash   (40 %)
+- [X] Python   (60 %)
+- [X] JavaScript / TypeScript   (80 %)
 - [ ] Go or Rust (optional)  
 - [ ] C# / .NET (for Azure Functions or Logic Apps)  
-- [X] YAML / JSON  
+- [X] YAML / JSON   (700 %)
 - [ ] Regex 
 
 ## Core Cloud Infrastructure
@@ -68,11 +68,29 @@
 - [X] Performance tuning  
 
 ## AI & ML in the Cloud
-- [X] Azure AI Services (Cognitive Services, Form Recognizer, etc.)  
+- [X] Azure AI Services (Cognitive Services, Form Recognizer, etc.)
+- [ ] Azure AI-driven Automation (Automanage, Copilot for Azure)
 - [ ] Cognitive Search / Vector search  
 - [ ] LangChain / LLM orchestration  
 - [ ] AIOps / Anomaly detection  
-- [ ] ML model deployment (AKS, ACI, App Services)  
+- [ ] ML model deployment (AKS, ACI, App Services)
+
+## Emerging & Future-Proof Skills
+- [ ] Serverless patterns (event-driven, workflow orchestration)
+- [ ] Edge computing & IoT integrations
+- [ ] Policy as Code (OPA, Azure Policy)
+- [ ] GitOps & advanced IaC automation
+- [ ] MLOps & Responsible AI
+- [ ] FinOps & cloud economics
+
+### Futuristic & Not-Yet-Popular Cloud Skills (Azure-focused)
+- [ ] Azure Quantum
+- [ ] Azure Distributed Cloud & Arc
+- [ ] Azure Decentralized Identity
+- [ ] Azure Percept (Edge AI)
+- [ ] Azure Digital Twins
+- [ ] Azure Spatial Anchors & Remote Rendering
+- [ ] Azure Sovereign Cloud
 
 ## Soft & Professional Skills
 - [x] Cloud architecture mindset  
@@ -90,6 +108,6 @@
 - [X] SC-300  
 - [ ] Terraform Associate  
 - [ ] CKA / CKAD  
-- [ ] AWS Solutions Architect  
-- [ ] GCP Associate Cloud Engineer  
+- [ ] AWS Solutions Architect  (Optional)
+- [ ] GCP Associate Cloud Engineer  (Optional)
 
