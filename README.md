@@ -4,18 +4,18 @@
 - [x] Windows Server  
 - [x] Linux (Ubuntu, RHEL, etc.)  
 - [X] Command-line tools (Linux CLI)  
-- [ ] Shell scripting (Bash, POSIX)  
+- [X] Shell scripting (Bash, POSIX)  
 - [X] Systemd / init systems  
 - [X] Networking tools (netstat, curl, dig, etc.)
 
 ## Programming & Scripting
-- [x] PowerShell  (80 %)
-- [x] Bash   (40 %)
-- [X] Python   (60 %)
-- [X] JavaScript / TypeScript   (80 %)
+- [x] PowerShell  (80%)
+- [x] Bash   (40%)
+- [X] Python   (60%)
+- [X] JavaScript / TypeScript   (80%)
 - [ ] Go or Rust (optional)  
-- [ ] C# / .NET (for Azure Functions or Logic Apps)  
-- [X] YAML / JSON   (70 %)
+- [X] C# / .NET (for Azure Functions or Logic Apps) (40%)
+- [X] YAML / JSON   (70%)
 - [ ] Regex 
 
 ## Core Cloud Infrastructure
@@ -55,7 +55,7 @@
 
 ## DevOps & Automation
 - [X] Git & version control  
-- [ ] CI/CD pipelines  
+- [X] CI/CD pipelines  
 - [X] GitHub Actions / Azure DevOps / CodePipeline  
 - [X] Containerization (Docker)  
 - [ ] Kubernetes (AKS, EKS, GKE)  
@@ -70,13 +70,13 @@
 ## AI & ML in the Cloud
 - [X] Azure AI Services (Cognitive Services, Form Recognizer, etc.)
 - [ ] Azure AI-driven Automation (Automanage, Copilot for Azure)
-- [ ] Cognitive Search / Vector search  
+- [X] Cognitive Search / Vector search  
 - [ ] LangChain / LLM orchestration  
 - [ ] AIOps / Anomaly detection  
 - [ ] ML model deployment (AKS, ACI, App Services)
 
 ## Emerging & Future-Proof Skills
-- [ ] Serverless patterns (event-driven, workflow orchestration)
+- [X] Serverless patterns (event-driven, workflow orchestration)
 - [ ] Edge computing & IoT integrations
 - [ ] Policy as Code (OPA, Azure Policy)
 - [ ] GitOps & advanced IaC automation
@@ -86,15 +86,15 @@
 ### Futuristic & Not-Yet-Popular Cloud Skills (Azure-focused)
 - [ ] Azure Quantum
 - [ ] Azure Distributed Cloud & Arc
-- [ ] Azure Decentralized Identity
+- [X] Azure Decentralized Identity
 - [ ] Azure Percept (Edge AI)
 - [ ] Azure Digital Twins
 - [ ] Azure Spatial Anchors & Remote Rendering
 - [ ] Azure Sovereign Cloud
 
 ## Soft & Professional Skills
-- [x] Cloud architecture mindset  
-- [ ] Documentation & diagramming  
+- [ ] Cloud architecture mindset  
+- [X] Documentation & diagramming  
 - [X] Communication & collaboration  
 - [X] Business/technical alignment  
 - [ ] Cost awareness & planning  
